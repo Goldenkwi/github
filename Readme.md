@@ -1,1 +1,5 @@
-Nyobain bang
+Mencoba git
+
+- nama: Muhammad Ammar Zayyad Rizki
+- nim: 607062530023
+- divisi: backend
